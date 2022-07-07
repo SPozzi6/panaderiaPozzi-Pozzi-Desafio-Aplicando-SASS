@@ -1,0 +1,23 @@
+{
+  "name": "repo_panaderiapozzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss/main.scss css/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SPozzi6/panaderiaPozzi-Pozzi-Desafio-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SPozzi6/panaderiaPozzi-Pozzi-Desafio-8/issues"
+  },
+  "homepage": "https://github.com/SPozzi6/panaderiaPozzi-Pozzi-Desafio-8#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
